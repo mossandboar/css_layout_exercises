@@ -8,6 +8,7 @@ nav {
   background-color: grey;
   position: fixed;
   width: 100%;
+
 }
 
 nav .icon-img {
@@ -51,6 +52,7 @@ main {
   margin-top: 150px;
   width: 600px;
   height: 300px;
+  
   position: relative;
   border: 10px dotted green;
   margin-left: auto;
@@ -58,17 +60,17 @@ main {
 }
 
 
-.spacecat, .spacedog {
+.cat, .dog {
   position: absolute;
   width: 200px;
 }
 
-.spacecat {
+.cat {
   top: -90px;
   left: -90px;
 }
 
-.spacedog {
+.dog {
   bottom: -120px;
   right: -60px;
 }

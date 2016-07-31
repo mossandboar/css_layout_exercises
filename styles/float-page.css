@@ -10,3 +10,16 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.pic-size{
+	width: 300px;
+}
+
+.pic1{
+	float: left;
+	margin-left: 15px;
+    
+}
+.pic2{
+	float: right;
+	margin-right: 14px;
+}
