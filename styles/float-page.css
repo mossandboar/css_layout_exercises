@@ -10,10 +10,27 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
-.pic-size{
-	width: 3\
-	æ./'./æ./≥÷æ÷/""?
-	'/???
+
+.pic-size {
+  width: 300px;
+}
+
+.pic1, .pic2{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.pic1 {
+  float: left;
+  margin-right: 15px;
+}
+
+.pic2 {
+  float: right;
+  margin-left: 15px;
+}
+
+	
 
 
 
